@@ -1,3 +1,5 @@
+package TP4;
+
 public class Calculette {
 	public static int polonaiseInverse(String expression) {
 		String[] tokens = expression.split(" ");
