@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: TP4.AppTest
+Test set: TP4.CalculetteTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s -- in TP4.AppTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 s -- in TP4.CalculetteTest
